@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Витебская 25</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/nzhgvo<br>Координаты: 43.197075, 76.89738<br><br>Район: БостандыкАдрес: Витебская 25<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир160.7<br>]]></description>
+            <Point id="2">
+                <coordinates>76.89738,43.197075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Витебская 27</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/hwxkl0<br>Координаты: 43.196845, 76.897081<br><br>Район: БостандыкАдрес: Витебская 27<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир161.4<br>]]></description>
+            <Point id="4">
+                <coordinates>76.897081,43.196845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Витебская 29</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/wa75yu<br>Координаты: 43.196629, 76.896783<br><br>Район: БостандыкАдрес: Витебская 29<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Р-1<br>Количество квартир: 8<br>Площадь квартир161.6<br>]]></description>
+            <Point id="6">
+                <coordinates>76.896783,43.196629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Витебская 31</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/z3jify<br>Координаты: 43.196413, 76.896485<br><br>Район: БостандыкАдрес: Витебская 31<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир160.8<br>]]></description>
+            <Point id="8">
+                <coordinates>76.896485,43.196413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Витебская 33</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/px4x3<br>Координаты: 43.196137, 76.896088<br><br>Район: БостандыкАдрес: Витебская 33<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир228<br>]]></description>
+            <Point id="10">
+                <coordinates>76.896088,43.196137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Радостовца 360</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/zwfwb<br>Координаты: 43.196691, 76.896073<br><br>Район: БостандыкАдрес: Радостовца 360<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир350.1<br>]]></description>
+            <Point id="12">
+                <coordinates>76.896073,43.196691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Радостовца 364</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cvvrxv<br>Координаты: 43.19648, 76.896063<br><br>Район: БостандыкАдрес: Радостовца 364<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир349.6<br>]]></description>
+            <Point id="14">
+                <coordinates>76.896063,43.19648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Радостовца  362</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/zpskn9<br>Координаты: 43.196791, 76.896063<br><br>Район: БостандыкАдрес: Радостовца  362<br>Группа: 1<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир350.1<br>]]></description>
+            <Point id="16">
+                <coordinates>76.896063,43.196791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Радостовца 409/6</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/0vkdhq<br>Координаты: 43.197129, 76.895541<br><br>Район: БостандыкАдрес: Радостовца 409/6<br>Группа: 1<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир522.3<br>]]></description>
+            <Point id="18">
+                <coordinates>76.895541,43.197129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Розыбакиева 390/8</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d4x599<br>Координаты: 43.197131, 76.894787<br><br>Район: БостандыкАдрес: Розыбакиева 390/8<br>Группа: 1<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 12<br>Площадь квартир520.8<br>]]></description>
+            <Point id="20">
+                <coordinates>76.894787,43.197131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>1-ая Лисянского 3</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/efsva<br>Координаты: 43.196773, 76.895143<br><br>Район: БостандыкАдрес: 1-ая Лисянского 3<br>Группа: 1<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир520.2<br>]]></description>
+            <Point id="22">
+                <coordinates>76.895143,43.196773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Ауэзова 122А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d7fevk<br>Координаты: 43.230009, 76.906199<br><br>Район: БостандыкАдрес: Ауэзова 122А<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир291.2<br>]]></description>
+            <Point id="24">
+                <coordinates>76.906199,43.230009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Ауэзова 122Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d0rjq<br>Координаты: 43.23005, 76.906646<br><br>Район: БостандыкАдрес: Ауэзова 122Б<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир274.8<br>]]></description>
+            <Point id="26">
+                <coordinates>76.906646,43.23005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Ауэзова 122В</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/sro54<br>Координаты: 43.230027, 76.907168<br><br>Район: БостандыкАдрес: Ауэзова 122В<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир275<br>]]></description>
+            <Point id="28">
+                <coordinates>76.907168,43.230027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Ауэзова 126А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/111ute<br>Координаты: 43.229095, 76.906348<br><br>Район: БостандыкАдрес: Ауэзова 126А<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир265.2<br>]]></description>
+            <Point id="30">
+                <coordinates>76.906348,43.229095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Ауэзова 126Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/6un9nt<br>Координаты: 43.229131, 76.906845<br><br>Район: БостандыкАдрес: Ауэзова 126Б<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир275.3<br>]]></description>
+            <Point id="32">
+                <coordinates>76.906845,43.229131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Ауэзова 126В</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/wx29rz<br>Координаты: 43.229221, 76.907267<br><br>Район: БостандыкАдрес: Ауэзова 126В<br>Группа: 2<br>Год постройки: 1965<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир492.5<br>]]></description>
+            <Point id="34">
+                <coordinates>76.907267,43.229221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Ауэзова 171</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/z1lxx<br>Координаты: 43.228716, 76.905155<br><br>Район: БостандыкАдрес: Ауэзова 171<br>Группа: 2<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-3<br>Количество квартир: 12<br>Площадь квартир485<br>]]></description>
+            <Point id="36">
+                <coordinates>76.905155,43.228716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Ауэзова 173</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/rp3fl<br>Координаты: 43.228328, 76.905179<br><br>Район: БостандыкАдрес: Ауэзова 173<br>Группа: 2<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-3<br>Количество квартир: 5<br>Площадь квартир184<br>]]></description>
+            <Point id="38">
+                <coordinates>76.905179,43.228328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Ауэзова 173А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/be6xxf<br>Координаты: 43.228302, 76.904882<br><br>Район: БостандыкАдрес: Ауэзова 173А<br>Группа: 2<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-3<br>Количество квартир: 6<br>Площадь квартир190<br>]]></description>
+            <Point id="40">
+                <coordinates>76.904882,43.228302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Габдуллина 59А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ftc54<br>Координаты: 43.228951, 76.911416<br><br>Район: БостандыкАдрес: Габдуллина 59А<br>Группа: 2<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 6<br>Площадь квартир528<br>]]></description>
+            <Point id="42">
+                <coordinates>76.911416,43.228951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Габдуллина 65</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/70xye<br>Координаты: 43.228951, 76.908683<br><br>Район: БостандыкАдрес: Габдуллина 65<br>Группа: 2<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир564.3<br>]]></description>
+            <Point id="44">
+                <coordinates>76.908683,43.228951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Габдуллина 67Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5dvqu<br>Координаты: 43.229636, 76.907242<br><br>Район: БостандыкАдрес: Габдуллина 67Б<br>Группа: 2<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир284.9<br>]]></description>
+            <Point id="46">
+                <coordinates>76.907242,43.229636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Габдуллина 69</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fpnsu<br>Координаты: 43.228795, 76.906727<br><br>Район: БостандыкАдрес: Габдуллина 69<br>Группа: 2<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир563.3<br>]]></description>
+            <Point id="48">
+                <coordinates>76.906727,43.228795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Манаса 75Г</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/96jwmp<br>Координаты: 43.229546, 76.908609<br><br>Район: БостандыкАдрес: Манаса 75Г<br>Группа: 2<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир287.6<br>]]></description>
+            <Point id="50">
+                <coordinates>76.908609,43.229546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Манаса 77А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/63bbb<br>Координаты: 43.229293, 76.90918<br><br>Район: БостандыкАдрес: Манаса 77А<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир267.8<br>]]></description>
+            <Point id="52">
+                <coordinates>76.90918,43.229293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Манаса 77Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9mxnx<br>Координаты: 43.229257, 76.908708<br><br>Район: БостандыкАдрес: Манаса 77Б<br>Группа: 2<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир279.7<br>]]></description>
+            <Point id="54">
+                <coordinates>76.908708,43.229257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Ауэзова 108</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/pij4d<br>Координаты: 43.233404, 76.90514<br><br>Район: БостандыкАдрес: Ауэзова 108<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир1183.4<br>]]></description>
+            <Point id="56">
+                <coordinates>76.90514,43.233404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Ауэзова 110</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/q2sk7<br>Координаты: 43.23296, 76.905174<br><br>Район: БостандыкАдрес: Ауэзова 110<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир497<br>]]></description>
+            <Point id="58">
+                <coordinates>76.905174,43.23296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Ауэзова 110А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/v4rst<br>Координаты: 43.232953, 76.905677<br><br>Район: БостандыкАдрес: Ауэзова 110А<br>Группа: 3<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир311.8<br>]]></description>
+            <Point id="60">
+                <coordinates>76.905677,43.232953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>ул.Жандосова 10/55</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/sxqyw<br>Координаты: 43.234972, 76.908907<br><br>Район: БостандыкАдрес: ул.Жандосова 10/55<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,ОЦ-1<br>Количество квартир: 22<br>Площадь квартир980<br>]]></description>
+            <Point id="62">
+                <coordinates>76.908907,43.234972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>ул.Жандосова 12</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/73nl97<br>Координаты: 43.234864, 76.908186<br><br>Район: БостандыкАдрес: ул.Жандосова 12<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 9<br>Площадь квартир501.1<br>]]></description>
+            <Point id="64">
+                <coordinates>76.908186,43.234864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>ул.Жандосова 16</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ye04fk<br>Координаты: 43.234732, 76.907764<br><br>Район: БостандыкАдрес: ул.Жандосова 16<br>Группа: 3<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир306.5<br>]]></description>
+            <Point id="66">
+                <coordinates>76.907764,43.234732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>ул.Жандосова 18</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tfd3ey<br>Координаты: 43.234061, 76.907247<br><br>Район: БостандыкАдрес: ул.Жандосова 18<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1, Ж-5<br>Количество квартир: 12<br>Площадь квартир479.9<br>]]></description>
+            <Point id="68">
+                <coordinates>76.907247,43.234061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>ул.Жандосова 22</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/35ul2<br>Координаты: 43.233883, 76.906688<br><br>Район: БостандыкАдрес: ул.Жандосова 22<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир485<br>]]></description>
+            <Point id="70">
+                <coordinates>76.906688,43.233883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>ул.Жандосова 26</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fegni<br>Координаты: 43.234236, 76.906255<br><br>Район: БостандыкАдрес: ул.Жандосова 26<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир310.3<br>]]></description>
+            <Point id="72">
+                <coordinates>76.906255,43.234236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>ул.Жандосова 28</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xrzzp<br>Координаты: 43.233629, 76.906005<br><br>Район: БостандыкАдрес: ул.Жандосова 28<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1, Ж-5<br>Количество квартир: 20<br>Площадь квартир581.2<br>]]></description>
+            <Point id="74">
+                <coordinates>76.906005,43.233629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>ул.Жандосова 30</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9ulwn<br>Координаты: 43.233629, 76.906005<br><br>Район: БостандыкАдрес: ул.Жандосова 30<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 12<br>Площадь квартир938.8<br>]]></description>
+            <Point id="76">
+                <coordinates>76.906005,43.233629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>ул.Жандосова 32</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cl8w6<br>Координаты: 43.233487, 76.905614<br><br>Район: БостандыкАдрес: ул.Жандосова 32<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1, Ж-5<br>Количество квартир: 8<br>Площадь квартир307.4<br>]]></description>
+            <Point id="78">
+                <coordinates>76.905614,43.233487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Манаса 57</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/g7apx<br>Координаты: 43.234499, 76.908944<br><br>Район: БостандыкАдрес: Манаса 57<br>Группа: 3<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1, Ж-5<br>Количество квартир: 12<br>Площадь квартир492.9<br>]]></description>
+            <Point id="80">
+                <coordinates>76.908944,43.234499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Манаса 57А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/zjvsj<br>Координаты: 43.234192, 76.90841<br><br>Район: БостандыкАдрес: Манаса 57А<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир506<br>]]></description>
+            <Point id="82">
+                <coordinates>76.90841,43.234192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Манаса 59</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ojf3h<br>Координаты: 43.234106, 76.909031<br><br>Район: БостандыкАдрес: Манаса 59<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир291.4<br>]]></description>
+            <Point id="84">
+                <coordinates>76.909031,43.234106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Манаса 59А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/6jce7<br>Координаты: 43.233854, 76.908733<br><br>Район: БостандыкАдрес: Манаса 59А<br>Группа: 3<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир285.7<br>]]></description>
+            <Point id="86">
+                <coordinates>76.908733,43.233854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Манаса 61</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/6x0cp4<br>Координаты: 43.233623, 76.909069<br><br>Район: БостандыкАдрес: Манаса 61<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир288.9<br>]]></description>
+            <Point id="88">
+                <coordinates>76.909069,43.233623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Манаса 63</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/iiu8t<br>Координаты: 43.23329, 76.909131<br><br>Район: БостандыкАдрес: Манаса 63<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир500.4<br>]]></description>
+            <Point id="90">
+                <coordinates>76.909131,43.23329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Манаса 63А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uu8v1<br>Координаты: 43.233151, 76.908534<br><br>Район: БостандыкАдрес: Манаса 63А<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5, ОЦ-1<br>Количество квартир: 12<br>Площадь квартир500.3<br>]]></description>
+            <Point id="92">
+                <coordinates>76.908534,43.233151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>ул.Озтюрка Мустафы 3</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/bbxd5<br>Координаты: 43.232703, 76.90853<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 3<br>Группа: 3<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир305<br>]]></description>
+            <Point id="94">
+                <coordinates>76.90853,43.232703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>ул.Озтюрка Мустафы 5</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/929a34<br>Координаты: 43.232664, 76.908136<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 5<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир307<br>]]></description>
+            <Point id="96">
+                <coordinates>76.908136,43.232664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>ул.Озтюрка Мустафы 9А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d42yw4<br>Координаты: 43.232872, 76.906638<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 9А<br>Группа: 3<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир353<br>]]></description>
+            <Point id="98">
+                <coordinates>76.906638,43.232872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>ул.Озтюрка Мустафы 11</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/t7ayh<br>Координаты: 43.232574, 76.906472<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 11<br>Группа: 3<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир298<br>]]></description>
+            <Point id="100">
+                <coordinates>76.906472,43.232574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>ул.Озтюрка Мустафы 13</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2s7pyt<br>Координаты: 43.232512, 76.905958<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 13<br>Группа: 3<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир491.6<br>]]></description>
+            <Point id="102">
+                <coordinates>76.905958,43.232512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Бухар Жырау 59</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/52mds<br>Координаты: 43.231371, 76.908648<br><br>Район: БостандыкАдрес: Бухар Жырау 59<br>Группа: 4<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 6<br>Площадь квартир289<br>]]></description>
+            <Point id="104">
+                <coordinates>76.908648,43.231371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Бухар Жырау 61</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/mke7j<br>Координаты: 43.301853, 77.219537<br><br>Район: БостандыкАдрес: Бухар Жырау 61<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир481<br>]]></description>
+            <Point id="106">
+                <coordinates>77.219537,43.301853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Бухар Жырау 61А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/8vlyb<br>Координаты: 43.231722, 76.907973<br><br>Район: БостандыкАдрес: Бухар Жырау 61А<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир471<br>]]></description>
+            <Point id="108">
+                <coordinates>76.907973,43.231722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Бухар Жырау 65</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fnh8g<br>Координаты: 43.231244, 76.906804<br><br>Район: БостандыкАдрес: Бухар Жырау 65<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир475.5<br>]]></description>
+            <Point id="110">
+                <coordinates>76.906804,43.231244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Бухар Жырау 65А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/qyh5b<br>Координаты: 43.231244, 76.906804<br><br>Район: БостандыкАдрес: Бухар Жырау 65А<br>Группа: 4<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир485.5<br>]]></description>
+            <Point id="112">
+                <coordinates>76.906804,43.231244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Бухар Жырау 67</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ljr90<br>Координаты: 43.301777, 77.218772<br><br>Район: БостандыкАдрес: Бухар Жырау 67<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир459.1<br>]]></description>
+            <Point id="114">
+                <coordinates>77.218772,43.301777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Ауэзова 114/14</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5c93ik<br>Координаты: 43.231907, 76.905354<br><br>Район: БостандыкАдрес: Ауэзова 114/14<br>Группа: 4<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир861<br>]]></description>
+            <Point id="116">
+                <coordinates>76.905354,43.231907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Ауэзова 116</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/68dtw<br>Координаты: 43.231625, 76.905358<br><br>Район: БостандыкАдрес: Ауэзова 116<br>Группа: 4<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир319<br>]]></description>
+            <Point id="118">
+                <coordinates>76.905358,43.231625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Ауэзова 118/69</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jfwb9<br>Координаты: 43.231181, 76.905454<br><br>Район: БостандыкАдрес: Ауэзова 118/69<br>Группа: 4<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир820.3<br>]]></description>
+            <Point id="120">
+                <coordinates>76.905454,43.231181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Манаса 69</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5x3g0<br>Координаты: 43.231907, 76.909304<br><br>Район: БостандыкАдрес: Манаса 69<br>Группа: 4<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир278.9<br>]]></description>
+            <Point id="122">
+                <coordinates>76.909304,43.231907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>ул.Озтюрка Мустафы 2</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cyu16b<br>Координаты: 43.232193, 76.909235<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 2<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир857<br>]]></description>
+            <Point id="124">
+                <coordinates>76.909235,43.232193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>ул.Озтюрка Мустафы 4</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/colssf<br>Координаты: 43.23234, 76.908593<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 4<br>Группа: 4<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир373.8<br>]]></description>
+            <Point id="126">
+                <coordinates>76.908593,43.23234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>ул.Озтюрка Мустафы 6</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/stjjbn<br>Координаты: 43.232077, 76.907928<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 6<br>Группа: 4<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир782.3<br>]]></description>
+            <Point id="128">
+                <coordinates>76.907928,43.232077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>ул.Озтюрка Мустафы 8</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ctooc<br>Координаты: 43.231907, 76.907389<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 8<br>Группа: 4<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир532.1<br>]]></description>
+            <Point id="130">
+                <coordinates>76.907389,43.231907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>ул.Озтюрка Мустафы 10</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/145wh<br>Координаты: 43.232146, 76.90654<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 10<br>Группа: 4<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир860.7<br>]]></description>
+            <Point id="132">
+                <coordinates>76.90654,43.232146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>ул.Озтюрка Мустафы 12</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3sniss<br>Координаты: 43.232143, 76.906055<br><br>Район: БостандыкАдрес: ул.Озтюрка Мустафы 12<br>Группа: 4<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир490.8<br>]]></description>
+            <Point id="134">
+                <coordinates>76.906055,43.232143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Бухар Жирау 2</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/kxwq1u<br>Координаты: 43.290358, 76.991743<br><br>Район: БостандыкАдрес: Бухар Жирау 2<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 6<br>Площадь квартир382.7<br>]]></description>
+            <Point id="136">
+                <coordinates>76.991743,43.290358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Бухар Жирау 4</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2af7j<br>Координаты: 43.235188, 76.92744<br><br>Район: БостандыкАдрес: Бухар Жирау 4<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир304.9<br>]]></description>
+            <Point id="138">
+                <coordinates>76.92744,43.235188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Байтурсынова 125</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/gejc9<br>Координаты: 43.235483, 76.928688<br><br>Район: БостандыкАдрес: Байтурсынова 125<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Р-1<br>Количество квартир: 8<br>Площадь квартир295.3<br>]]></description>
+            <Point id="140">
+                <coordinates>76.928688,43.235483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Байтурсынова 127</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/lmcdhf<br>Координаты: 43.235137, 76.928755<br><br>Район: БостандыкАдрес: Байтурсынова 127<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Р-1<br>Количество квартир: 8<br>Площадь квартир291<br>]]></description>
+            <Point id="142">
+                <coordinates>76.928755,43.235137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Байтурсынова 129</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/bp2oj<br>Координаты: 43.23506, 76.929205<br><br>Район: БостандыкАдрес: Байтурсынова 129<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир284.4<br>]]></description>
+            <Point id="144">
+                <coordinates>76.929205,43.23506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Байтурсынова 129А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9aezth<br>Координаты: 43.234839, 76.928987<br><br>Район: БостандыкАдрес: Байтурсынова 129А<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир292.8<br>]]></description>
+            <Point id="146">
+                <coordinates>76.928987,43.234839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>ул.Римского-Корсакова 2/6</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/bx3kox<br>Координаты: 43.234597, 76.927514<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 2/6<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир287.8<br>]]></description>
+            <Point id="148">
+                <coordinates>76.927514,43.234597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>ул.Римского-Корсакова 4</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tvp63<br>Координаты: 43.234843, 76.927184<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 4<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир287.8<br>]]></description>
+            <Point id="150">
+                <coordinates>76.927184,43.234843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>ул.Римского-Корсакова 6</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/946zp7<br>Координаты: 43.234597, 76.927514<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 6<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир280.3<br>]]></description>
+            <Point id="152">
+                <coordinates>76.927514,43.234597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>ул.Римского-Корсакова 6А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/w65op<br>Координаты: 43.234375, 76.927854<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 6А<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир289.1<br>]]></description>
+            <Point id="154">
+                <coordinates>76.927854,43.234375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>ул.Римского-Корсакова 6Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/k7uuz<br>Координаты: 43.234338, 76.928291<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 6Б<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир293.6<br>]]></description>
+            <Point id="156">
+                <coordinates>76.928291,43.234338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>ул.Римского-Корсакова 6В</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/hp760<br>Координаты: 43.234578, 76.928629<br><br>Район: БостандыкАдрес: ул.Римского-Корсакова 6В<br>Группа: 5<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-4<br>Количество квартир: 8<br>Площадь квартир303.9<br>]]></description>
+            <Point id="158">
+                <coordinates>76.928629,43.234578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Лескова 1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/15rtb<br>Координаты: 43.228761, 76.933677<br><br>Район: БостандыкАдрес: Лескова 1<br>Группа: 6<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 10<br>Площадь квартир526.2<br>]]></description>
+            <Point id="160">
+                <coordinates>76.933677,43.228761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>ул.Маркова 42</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tk4r5<br>Координаты: 43.228674, 76.932714<br><br>Район: БостандыкАдрес: ул.Маркова 42<br>Группа: 6<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир292.7<br>]]></description>
+            <Point id="162">
+                <coordinates>76.932714,43.228674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>ул.Маркова 46</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/l4u5qw<br>Координаты: 43.228027, 76.933515<br><br>Район: БостандыкАдрес: ул.Маркова 46<br>Группа: 6<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир278.5<br>]]></description>
+            <Point id="164">
+                <coordinates>76.933515,43.228027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>ул.Маркова 48</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/k6kyhs<br>Координаты: 43.227843, 76.933917<br><br>Район: БостандыкАдрес: ул.Маркова 48<br>Группа: 6<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 12<br>Площадь квартир279.9<br>]]></description>
+            <Point id="166">
+                <coordinates>76.933917,43.227843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>ул.Маркова 50</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/otrqy<br>Координаты: 43.227548, 76.934143<br><br>Район: БостандыкАдрес: ул.Маркова 50<br>Группа: 6<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир246.5<br>]]></description>
+            <Point id="168">
+                <coordinates>76.934143,43.227548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>ул.Маркова 52</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/mwhzh<br>Координаты: 43.227175, 76.934643<br><br>Район: БостандыкАдрес: ул.Маркова 52<br>Группа: 6<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 16<br>Площадь квартир847.1<br>]]></description>
+            <Point id="170">
+                <coordinates>76.934643,43.227175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>ул.Маркова 55</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/c3z6ml<br>Координаты: 43.227087, 76.934005<br><br>Район: БостандыкАдрес: ул.Маркова 55<br>Группа: 6<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир238.9<br>]]></description>
+            <Point id="172">
+                <coordinates>76.934005,43.227087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>ул.Попова 3А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/8vduz<br>Координаты: 43.22772, 76.935397<br><br>Район: БостандыкАдрес: ул.Попова 3А<br>Группа: 6<br>Год постройки: 1936<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир272.4<br>]]></description>
+            <Point id="174">
+                <coordinates>76.935397,43.22772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>ул.Попова 5</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/dhg8j<br>Координаты: 43.227488, 76.93507<br><br>Район: БостандыкАдрес: ул.Попова 5<br>Группа: 6<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир318.8<br>]]></description>
+            <Point id="176">
+                <coordinates>76.93507,43.227488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>ул.Попова 9</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/22esw<br>Координаты: 43.226808, 76.934134<br><br>Район: БостандыкАдрес: ул.Попова 9<br>Группа: 6<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 16<br>Площадь квартир373.5<br>]]></description>
+            <Point id="178">
+                <coordinates>76.934134,43.226808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>ул.Попова 11</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/smnkh<br>Координаты: 43.226563, 76.933789<br><br>Район: БостандыкАдрес: ул.Попова 11<br>Группа: 6<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 10<br>Площадь квартир241.9<br>]]></description>
+            <Point id="180">
+                <coordinates>76.933789,43.226563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>ул.Попова 13</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uem7v4<br>Координаты: 43.226333, 76.933463<br><br>Район: БостандыкАдрес: ул.Попова 13<br>Группа: 6<br>Год постройки: 1955-1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 16<br>Площадь квартир388.6<br>]]></description>
+            <Point id="182">
+                <coordinates>76.933463,43.226333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>ул.Попова 17/6А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/47wkv<br>Координаты: 43.225681, 76.93254<br><br>Район: БостандыкАдрес: ул.Попова 17/6А<br>Группа: 6<br>Год постройки: 1968<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир298.2<br>]]></description>
+            <Point id="184">
+                <coordinates>76.93254,43.225681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>ул.Попова 21</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/nwm08p<br>Координаты: 43.225156, 76.931774<br><br>Район: БостандыкАдрес: ул.Попова 21<br>Группа: 6<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-2<br>Количество квартир: 8<br>Площадь квартир254.8<br>]]></description>
+            <Point id="186">
+                <coordinates>76.931774,43.225156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Байтурсынова 98</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fy047<br>Координаты: 43.238893, 76.928589<br><br>Район: БостандыкАдрес: Байтурсынова 98<br>Группа: 7<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 13<br>Площадь квартир270.2<br>]]></description>
+            <Point id="188">
+                <coordinates>76.928589,43.238893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Байтурсынова 100</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/watzjc<br>Координаты: 43.23865, 76.92832<br><br>Район: БостандыкАдрес: Байтурсынова 100<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир402.7<br>]]></description>
+            <Point id="190">
+                <coordinates>76.92832,43.23865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Байтурсынова 106</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/prn7cq<br>Координаты: 43.237552, 76.928458<br><br>Район: БостандыкАдрес: Байтурсынова 106<br>Группа: 7<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 14<br>Площадь квартир719.3<br>]]></description>
+            <Point id="192">
+                <coordinates>76.928458,43.237552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>ул.Масанчи 83</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/l2w9j<br>Координаты: 43.240207, 76.930669<br><br>Район: БостандыкАдрес: ул.Масанчи 83<br>Группа: 7<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир274.2<br>]]></description>
+            <Point id="194">
+                <coordinates>76.930669,43.240207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>ул.Масанчи 83А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5dvqu<br>Координаты: 43.229636, 76.907242<br><br>Район: БостандыкАдрес: ул.Масанчи 83А<br>Группа: 7<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж4<br>Количество квартир: 8<br>Площадь квартир269.8<br>]]></description>
+            <Point id="196">
+                <coordinates>76.907242,43.229636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>ул.Масанчи 85</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/t0qwh<br>Координаты: 43.23989, 76.930709<br><br>Район: БостандыкАдрес: ул.Масанчи 85<br>Группа: 7<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 13<br>Площадь квартир421.7<br>]]></description>
+            <Point id="198">
+                <coordinates>76.930709,43.23989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>ул.Масанчи 87</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/i6ajr<br>Координаты: 43.239647, 76.93047<br><br>Район: БостандыкАдрес: ул.Масанчи 87<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир268.5<br>]]></description>
+            <Point id="200">
+                <coordinates>76.93047,43.239647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>ул.Масанчи 89</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/u98l5<br>Координаты: 43.239647, 76.93047<br><br>Район: БостандыкАдрес: ул.Масанчи 89<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 12<br>Площадь квартир423.2<br>]]></description>
+            <Point id="202">
+                <coordinates>76.93047,43.239647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>ул.Масанчи 91</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/4akcm<br>Координаты: 43.239339, 76.930509<br><br>Район: БостандыкАдрес: ул.Масанчи 91<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир280.6<br>]]></description>
+            <Point id="204">
+                <coordinates>76.930509,43.239339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>ул.Масанчи 93</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vwyiec<br>Координаты: 43.238835, 76.930841<br><br>Район: БостандыкАдрес: ул.Масанчи 93<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 12<br>Площадь квартир413.4<br>]]></description>
+            <Point id="206">
+                <coordinates>76.930841,43.238835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>ул.Масанчи 95</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fmh58<br>Координаты: 43.238488, 76.930885<br><br>Район: БостандыкАдрес: ул.Масанчи 95<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир277.3<br>]]></description>
+            <Point id="208">
+                <coordinates>76.930885,43.238488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>ул.Масанчи 97</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/f9z5to<br>Координаты: 43.238488, 76.930885<br><br>Район: БостандыкАдрес: ул.Масанчи 97<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 12<br>Площадь квартир415.8<br>]]></description>
+            <Point id="210">
+                <coordinates>76.930885,43.238488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>ул.Масанчи 99</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/hcifi9<br>Координаты: 43.237832, 76.93097<br><br>Район: БостандыкАдрес: ул.Масанчи 99<br>Группа: 7<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир732.1<br>]]></description>
+            <Point id="212">
+                <coordinates>76.93097,43.237832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Сатпаева 9</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2v9td<br>Координаты: 43.237824, 76.932601<br><br>Район: БостандыкАдрес: Сатпаева 9<br>Группа: 7<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 6<br>Площадь квартир310.2<br>]]></description>
+            <Point id="214">
+                <coordinates>76.932601,43.237824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Сатпаева 15</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xjszt<br>Координаты: 43.237664, 76.930303<br><br>Район: БостандыкАдрес: Сатпаева 15<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир436.2<br>]]></description>
+            <Point id="216">
+                <coordinates>76.930303,43.237664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Сатпаева 17</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/myodpn<br>Координаты: 43.237664, 76.930303<br><br>Район: БостандыкАдрес: Сатпаева 17<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир277.8<br>]]></description>
+            <Point id="218">
+                <coordinates>76.930303,43.237664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Сатпаева 19</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/h0pxbb<br>Координаты: 43.237906, 76.930167<br><br>Район: БостандыкАдрес: Сатпаева 19<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир269.9<br>]]></description>
+            <Point id="220">
+                <coordinates>76.930167,43.237906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Сатпаева 21</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vaut4s<br>Координаты: 43.238177, 76.929668<br><br>Район: БостандыкАдрес: Сатпаева 21<br>Группа: 7<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир429<br>]]></description>
+            <Point id="222">
+                <coordinates>76.929668,43.238177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Сатпаева 23</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/g3w4bz<br>Координаты: 43.238177, 76.929668<br><br>Район: БостандыкАдрес: Сатпаева 23<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир271.7<br>]]></description>
+            <Point id="224">
+                <coordinates>76.929668,43.238177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Сатпаева 25</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/oehtov<br>Координаты: 43.238132, 76.929165<br><br>Район: БостандыкАдрес: Сатпаева 25<br>Группа: 7<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир262.9<br>]]></description>
+            <Point id="226">
+                <coordinates>76.929165,43.238132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Сатпаева 27</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3gahi0<br>Координаты: 43.237838, 76.929202<br><br>Район: БостандыкАдрес: Сатпаева 27<br>Группа: 7<br>Год постройки: 1951<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир256.2<br>]]></description>
+            <Point id="228">
+                <coordinates>76.929202,43.237838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Катаева 161</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9lvzf6<br>Координаты: 43.232657, 76.891374<br><br>Район: БостандыкАдрес: Катаева 161<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир265<br>]]></description>
+            <Point id="230">
+                <coordinates>76.891374,43.232657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Катаева 163</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/8occw<br>Координаты: 43.232001, 76.891445<br><br>Район: БостандыкАдрес: Катаева 163<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир318<br>]]></description>
+            <Point id="232">
+                <coordinates>76.891445,43.232001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>Катаева 166</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d7ccu<br>Координаты: 43.231189, 76.892195<br><br>Район: БостандыкАдрес: Катаева 166<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир252<br>]]></description>
+            <Point id="234">
+                <coordinates>76.892195,43.231189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Катаева 168</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cyulft<br>Координаты: 43.230878, 76.892253<br><br>Район: БостандыкАдрес: Катаева 168<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир283<br>]]></description>
+            <Point id="236">
+                <coordinates>76.892253,43.230878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>Катаева 170</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/7z6wzg<br>Координаты: 43.230602, 76.892293<br><br>Район: БостандыкАдрес: Катаева 170<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир245<br>]]></description>
+            <Point id="238">
+                <coordinates>76.892293,43.230602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Катаева 171</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/688sq<br>Координаты: 43.23082, 76.8916<br><br>Район: БостандыкАдрес: Катаева 171<br>Группа: 9<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир252<br>]]></description>
+            <Point id="240">
+                <coordinates>76.8916,43.23082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Катаева 172</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/qwuqc<br>Координаты: 43.230314, 76.892343<br><br>Район: БостандыкАдрес: Катаева 172<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир278<br>]]></description>
+            <Point id="242">
+                <coordinates>76.892343,43.230314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Катаева 173</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fyds2<br>Координаты: 43.23054, 76.891638<br><br>Район: БостандыкАдрес: Катаева 173<br>Группа: 9<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир249<br>]]></description>
+            <Point id="244">
+                <coordinates>76.891638,43.23054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Катаева 175</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/1hhcy<br>Координаты: 43.230265, 76.891706<br><br>Район: БостандыкАдрес: Катаева 175<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир238<br>]]></description>
+            <Point id="246">
+                <coordinates>76.891706,43.230265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Катаева 176</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/rx06o<br>Координаты: 43.229719, 76.892417<br><br>Район: БостандыкАдрес: Катаева 176<br>Группа: 9<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир272<br>]]></description>
+            <Point id="248">
+                <coordinates>76.892417,43.229719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>Катаева 179</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/u48j2<br>Координаты: 43.229628, 76.891755<br><br>Район: БостандыкАдрес: Катаева 179<br>Группа: 9<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир184<br>]]></description>
+            <Point id="250">
+                <coordinates>76.891755,43.229628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Радостовца 163</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/yq0au<br>Координаты: 43.232748, 76.892616<br><br>Район: БостандыкАдрес: Радостовца 163<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир256.9<br>]]></description>
+            <Point id="252">
+                <coordinates>76.892616,43.232748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Радостовца 163а</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/aj9oz<br>Координаты: 43.232716, 76.892154<br><br>Район: БостандыкАдрес: Радостовца 163а<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир399.5<br>]]></description>
+            <Point id="254">
+                <coordinates>76.892154,43.232716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>Радостовца 171</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2pelg<br>Координаты: 43.231231, 76.89279<br><br>Район: БостандыкАдрес: Радостовца 171<br>Группа: 9<br>Год постройки: 1969<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир256<br>]]></description>
+            <Point id="256">
+                <coordinates>76.89279,43.231231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Радостовца 173</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uaibp<br>Координаты: 43.230907, 76.892833<br><br>Район: БостандыкАдрес: Радостовца 173<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир270<br>]]></description>
+            <Point id="258">
+                <coordinates>76.892833,43.230907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Радостовца 175</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/dsjh1<br>Координаты: 43.230627, 76.89287<br><br>Район: БостандыкАдрес: Радостовца 175<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир254<br>]]></description>
+            <Point id="260">
+                <coordinates>76.89287,43.230627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Радостовца 177</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3boqz<br>Координаты: 43.23033, 76.892909<br><br>Район: БостандыкАдрес: Радостовца 177<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир242<br>]]></description>
+            <Point id="262">
+                <coordinates>76.892909,43.23033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Розыбакиева 164</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5oesvs<br>Координаты: 43.232607, 76.890894<br><br>Район: БостандыкАдрес: Розыбакиева 164<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 8<br>Площадь квартир413.5<br>]]></description>
+            <Point id="264">
+                <coordinates>76.890894,43.232607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Розыбакиева 166</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ua8m2<br>Координаты: 43.232413, 76.891119<br><br>Район: БостандыкАдрес: Розыбакиева 166<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир243<br>]]></description>
+            <Point id="266">
+                <coordinates>76.891119,43.232413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Розыбакиева 168</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2vjek6<br>Координаты: 43.231977, 76.891011<br><br>Район: БостандыкАдрес: Розыбакиева 168<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир239<br>]]></description>
+            <Point id="268">
+                <coordinates>76.891011,43.231977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Розыбакиева 170</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/udp8ef<br>Координаты: 43.231717, 76.891011<br><br>Район: БостандыкАдрес: Розыбакиева 170<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир243<br>]]></description>
+            <Point id="270">
+                <coordinates>76.891011,43.231717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Розыбакиева 172</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/u35cn<br>Координаты: 43.231432, 76.891026<br><br>Район: БостандыкАдрес: Розыбакиева 172<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир234<br>]]></description>
+            <Point id="272">
+                <coordinates>76.891026,43.231432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Розыбакиева 174</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d76t9<br>Координаты: 43.231125, 76.891125<br><br>Район: БостандыкАдрес: Розыбакиева 174<br>Группа: 9<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир239<br>]]></description>
+            <Point id="274">
+                <coordinates>76.891125,43.231125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Розыбакиева 174А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/saktz<br>Координаты: 43.231166, 76.891582<br><br>Район: БостандыкАдрес: Розыбакиева 174А<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир234<br>]]></description>
+            <Point id="276">
+                <coordinates>76.891582,43.231166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Розыбакиева 176</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/v7clyp<br>Координаты: 43.230788, 76.891133<br><br>Район: БостандыкАдрес: Розыбакиева 176<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир244<br>]]></description>
+            <Point id="278">
+                <coordinates>76.891133,43.230788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Розыбакиева 178</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/kh3tt<br>Координаты: 43.230507, 76.89117<br><br>Район: БостандыкАдрес: Розыбакиева 178<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир248<br>]]></description>
+            <Point id="280">
+                <coordinates>76.89117,43.230507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Розыбакиева 180</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9piwd<br>Координаты: 43.230211, 76.891209<br><br>Район: БостандыкАдрес: Розыбакиева 180<br>Группа: 9<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир268<br>]]></description>
+            <Point id="282">
+                <coordinates>76.891209,43.230211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Розыбакиева 184</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/l8qba<br>Координаты: 43.22963, 76.891285<br><br>Район: БостандыкАдрес: Розыбакиева 184<br>Группа: 9<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир249<br>]]></description>
+            <Point id="284">
+                <coordinates>76.891285,43.22963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Гагарина 159</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/gctdwl<br>Координаты: 43.220367, 76.896741<br><br>Район: БостандыкАдрес: Гагарина 159<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Р-1,Т-2<br>Количество квартир: 0<br>Площадь квартир0<br>]]></description>
+            <Point id="286">
+                <coordinates>76.896741,43.220367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Гагарина 161</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/sq3fc<br>Координаты: 43.220043, 76.896824<br><br>Район: БостандыкАдрес: Гагарина 161<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Р-1,Т-2<br>Количество квартир: 8<br>Площадь квартир284.9<br>]]></description>
+            <Point id="288">
+                <coordinates>76.896824,43.220043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Гагарина 163</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/gm9bmm<br>Координаты: 43.219661, 76.896836<br><br>Район: БостандыкАдрес: Гагарина 163<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Р-1,Т-2<br>Количество квартир: 8<br>Площадь квартир394.9<br>]]></description>
+            <Point id="290">
+                <coordinates>76.896836,43.219661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Гагарина 165</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/0hrpe<br>Координаты: 43.22062, 76.897732<br><br>Район: БостандыкАдрес: Гагарина 165<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2, ОЦ-3<br>Количество квартир: 7<br>Площадь квартир302.4<br>]]></description>
+            <Point id="292">
+                <coordinates>76.896873,43.219269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Гагарина 206Г</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/p4trg<br>Координаты: 43.220766, 76.898296<br><br>Район: БостандыкАдрес: Гагарина 206Г<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир284.8<br>]]></description>
+            <Point id="294">
+                <coordinates>76.897732,43.22062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Гагарина 206Л</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/t0ete<br>Координаты: 43.220746, 76.898842<br><br>Район: БостандыкАдрес: Гагарина 206Л<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир291.5<br>]]></description>
+            <Point id="296">
+                <coordinates>76.898296,43.220766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Гагарина 206М</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ea0jh<br>Координаты: 43.219594, 76.898452<br><br>Район: БостандыкАдрес: Гагарина 206М<br>Группа: 10<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир296.3<br>]]></description>
+            <Point id="298">
+                <coordinates>76.898842,43.220746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Утепова 9</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jq36k<br>Координаты: 43.21975, 76.899001<br><br>Район: БостандыкАдрес: Утепова 9<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир304.2<br>]]></description>
+            <Point id="300">
+                <coordinates>76.898452,43.219594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Утепова 9А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3v4rly<br>Координаты: 43.219581, 76.897885<br><br>Район: БостандыкАдрес: Утепова 9А<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 8<br>Площадь квартир320.9<br>]]></description>
+            <Point id="302">
+                <coordinates>76.899001,43.21975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Утепова 11А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2bkone<br>Координаты: 43.219304, 76.89747<br><br>Район: БостандыкАдрес: Утепова 11А<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 5<br>Площадь квартир154.8<br>]]></description>
+            <Point id="304">
+                <coordinates>76.897885,43.219581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Утепова 13</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/spx6p<br>Координаты: 43.219202, 76.896518<br><br>Район: БостандыкАдрес: Утепова 13<br>Группа: 10<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 12<br>Площадь квартир587<br>]]></description>
+            <Point id="306">
+                <coordinates>76.89747,43.219304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Утепова 17</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3sy10<br>Координаты: 43.234022, 76.901031<br><br>Район: БостандыкАдрес: Утепова 17<br>Группа: 10<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 10<br>Площадь квартир286.7<br>]]></description>
+            <Point id="308">
+                <coordinates>76.896518,43.219202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Сыпатаева (8-ая линия) 117</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/0h3ce<br>Координаты: 43.23538, 76.904119<br><br>Район: БостандыкАдрес: Сыпатаева (8-ая линия) 117<br>Группа: 11<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир303<br>]]></description>
+            <Point id="310">
+                <coordinates>76.901031,43.234022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Ауэзова 145А/36</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/0wz47<br>Координаты: 43.23538, 76.904119<br><br>Район: БостандыкАдрес: Ауэзова 145А/36<br>Группа: 11<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 18<br>Площадь квартир745<br>]]></description>
+            <Point id="312">
+                <coordinates>76.904119,43.23538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Ауэзова 145Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vtx4y<br>Координаты: 43.234791, 76.900676<br><br>Район: БостандыкАдрес: Ауэзова 145Б<br>Группа: 11<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 7<br>Площадь квартир269<br>]]></description>
+            <Point id="314">
+                <coordinates>76.904298,43.234927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Жарокова 150А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/f55tl<br>Координаты: 43.234325, 76.900736<br><br>Район: БостандыкАдрес: Жарокова 150А<br>Группа: 11<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир307<br>]]></description>
+            <Point id="316">
+                <coordinates>76.900676,43.234791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Жарокова 150Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xvj8r<br>Координаты: 43.234492, 76.900297<br><br>Район: БостандыкАдрес: Жарокова 150Б<br>Группа: 11<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир289.4<br>]]></description>
+            <Point id="318">
+                <coordinates>76.900736,43.234325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Жарокова 152</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jsbmrs<br>Координаты: 43.235327, 76.903451<br><br>Район: БостандыкАдрес: Жарокова 152<br>Группа: 11<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 12<br>Площадь квартир497.7<br>]]></description>
+            <Point id="320">
+                <coordinates>76.900297,43.234492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Сатпаева 38</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/m76ih<br>Координаты: 43.234775, 76.902331<br><br>Район: БостандыкАдрес: Сатпаева 38<br>Группа: 11<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 12<br>Площадь квартир496<br>]]></description>
+            <Point id="322">
+                <coordinates>76.903451,43.235327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Сатпаева 42А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/mzxu3a<br>Координаты: 43.235204, 76.901722<br><br>Район: БостандыкАдрес: Сатпаева 42А<br>Группа: 11<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир255.9<br>]]></description>
+            <Point id="324">
+                <coordinates>76.902331,43.234775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Сатпаева 44</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tb1nn<br>Координаты: 43.234994, 76.901349<br><br>Район: БостандыкАдрес: Сатпаева 44<br>Группа: 11<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 8<br>Площадь квартир350.9<br>]]></description>
+            <Point id="326">
+                <coordinates>76.901722,43.235204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Сатпаева 46</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d535a<br>Координаты: 43.235143, 76.900865<br><br>Район: БостандыкАдрес: Сатпаева 46<br>Группа: 11<br>Год постройки: 1978<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 6<br>Площадь квартир244.3<br>]]></description>
+            <Point id="328">
+                <coordinates>76.901349,43.234994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Сатпаева 48</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cews2<br>Координаты: 43.235096, 76.900385<br><br>Район: БостандыкАдрес: Сатпаева 48<br>Группа: 11<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: ж/б каркас с кирпичным запо<br>ПДП: Т-2,Ж-5<br>Количество квартир: 10<br>Площадь квартир260.1<br>]]></description>
+            <Point id="330">
+                <coordinates>76.900865,43.235143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Сатпаева 50</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/rgsyz<br>Координаты: 43.231414, 76.927919<br><br>Район: БостандыкАдрес: Сатпаева 50<br>Группа: 11<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 18<br>Площадь квартир811.3<br>]]></description>
+            <Point id="332">
+                <coordinates>76.900385,43.235096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Габдуллина 50/29</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9rzpi<br>Координаты: 43.231667, 76.929083<br><br>Район: БостандыкАдрес: Габдуллина 50/29<br>Группа: 12<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 13<br>Площадь квартир390<br>]]></description>
+            <Point id="334">
+                <coordinates>76.927919,43.231414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>ул.Маркова 24</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/hsfbhk<br>Координаты: 43.231821, 76.928528<br><br>Район: БостандыкАдрес: ул.Маркова 24<br>Группа: 12<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1,Ж-4<br>Количество квартир: 9<br>Площадь квартир358<br>]]></description>
+            <Point id="336">
+                <coordinates>76.929083,43.231667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>ул.Маркова 24А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/w8mrz4<br>Координаты: 43.231906, 76.927572<br><br>Район: БостандыкАдрес: ул.Маркова 24А<br>Группа: 12<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,ОЦ-1<br>Количество квартир: 27<br>Площадь квартир597<br>]]></description>
+            <Point id="338">
+                <coordinates>76.928528,43.231821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>ул.Маркова 27</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/a1dxi<br>Координаты: 43.23035, 76.930479<br><br>Район: БостандыкАдрес: ул.Маркова 27<br>Группа: 12<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 16<br>Площадь квартир375<br>]]></description>
+            <Point id="340">
+                <coordinates>76.927572,43.231906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>ул.Маркова 30</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tsdlz5<br>Координаты: 43.231283, 76.928371<br><br>Район: БостандыкАдрес: ул.Маркова 30<br>Группа: 12<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир384<br>]]></description>
+            <Point id="342">
+                <coordinates>76.930479,43.23035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>ул.Маркова 31</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/zc2ose<br>Координаты: 43.231044, 76.928688<br><br>Район: БостандыкАдрес: ул.Маркова 31<br>Группа: 12<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир338<br>]]></description>
+            <Point id="344">
+                <coordinates>76.928371,43.231283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>ул.Маркова 33</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/e9p6w<br>Координаты: 43.230842, 76.929022<br><br>Район: БостандыкАдрес: ул.Маркова 33<br>Группа: 12<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир343<br>]]></description>
+            <Point id="346">
+                <coordinates>76.928688,43.231044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>ул.Маркова 35/13А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/7o6sm<br>Координаты: 43.229652, 76.931456<br><br>Район: БостандыкАдрес: ул.Маркова 35/13А<br>Группа: 12<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир340<br>]]></description>
+            <Point id="348">
+                <coordinates>76.929022,43.230842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>ул.Маркова 36/19</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ggqmt<br>Координаты: 43.230647, 76.931728<br><br>Район: БостандыкАдрес: ул.Маркова 36/19<br>Группа: 12<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 18<br>Площадь квартир776<br>]]></description>
+            <Point id="350">
+                <coordinates>76.931456,43.229652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>ул.Минусинская 11</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/hxvwvn<br>Координаты: 43.231305, 76.929992<br><br>Район: БостандыкАдрес: ул.Минусинская 11<br>Группа: 12<br>Год постройки: 1961<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир354.4<br>]]></description>
+            <Point id="352">
+                <coordinates>76.931728,43.230647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>ул.Пирогова 12</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/6pjt5<br>Координаты: 43.201814, 76.903135<br><br>Район: БостандыкАдрес: ул.Пирогова 12<br>Группа: 12<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4, ОШ<br>Количество квартир: 8<br>Площадь квартир267.8<br>]]></description>
+            <Point id="354">
+                <coordinates>76.929992,43.231305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Дружбы 1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/c8z8j<br>Координаты: 43.202045, 76.90313<br><br>Район: БостандыкАдрес: Дружбы 1<br>Группа: 13<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир371<br>]]></description>
+            <Point id="356">
+                <coordinates>76.903135,43.201814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Дружбы 1А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5xmgl<br>Координаты: 43.201898, 76.902565<br><br>Район: БостандыкАдрес: Дружбы 1А<br>Группа: 13<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир374<br>]]></description>
+            <Point id="358">
+                <coordinates>76.90313,43.202045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Дружбы 3</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/f1lrf<br>Координаты: 43.201767, 76.902074<br><br>Район: БостандыкАдрес: Дружбы 3<br>Группа: 13<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир259<br>]]></description>
+            <Point id="360">
+                <coordinates>76.902565,43.201898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Дружбы 5</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9a8nbn<br>Координаты: 43.201983, 76.901861<br><br>Район: БостандыкАдрес: Дружбы 5<br>Группа: 13<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 4<br>Площадь квартир154.7<br>]]></description>
+            <Point id="362">
+                <coordinates>76.902074,43.201767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Дружбы 7А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ytfkif<br>Координаты: 43.228549, 76.880656<br><br>Район: БостандыкАдрес: Дружбы 7А<br>Группа: 13<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир382<br>]]></description>
+            <Point id="364">
+                <coordinates>76.901861,43.201983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Айвазовского 166</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/10ovba<br>Координаты: 43.228215, 76.880805<br><br>Район: БостандыкАдрес: Айвазовского 166<br>Группа: 14<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5, Т-2<br>Количество квартир: 8<br>Площадь квартир306.4<br>]]></description>
+            <Point id="366">
+                <coordinates>76.880656,43.228549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Айвазовского 168</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xh3oar<br>Координаты: 43.227981, 76.88084<br><br>Район: БостандыкАдрес: Айвазовского 168<br>Группа: 14<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир269.4<br>]]></description>
+            <Point id="368">
+                <coordinates>76.880805,43.228215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Айвазовского 170</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/wsi2x8<br>Координаты: 43.228515, 76.880259<br><br>Район: БостандыкАдрес: Айвазовского 170<br>Группа: 14<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир269.4<br>]]></description>
+            <Point id="370">
+                <coordinates>76.88084,43.227981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Айвазовского 173</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/n1s9n2<br>Координаты: 43.228919, 76.880256<br><br>Район: БостандыкАдрес: Айвазовского 173<br>Группа: 14<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2,Ж-5<br>Количество квартир: 8<br>Площадь квартир273.8<br>]]></description>
+            <Point id="372">
+                <coordinates>76.880259,43.228515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Айвазовского 173А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/bcjlx<br>Координаты: 43.22802, 76.880403<br><br>Район: БостандыкАдрес: Айвазовского 173А<br>Группа: 14<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 10<br>Площадь квартир543<br>]]></description>
+            <Point id="374">
+                <coordinates>76.880256,43.228919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Айвазовского 175</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/5iyeyq<br>Координаты: 43.228566, 76.88103<br><br>Район: БостандыкАдрес: Айвазовского 175<br>Группа: 14<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир269.4<br>]]></description>
+            <Point id="376">
+                <coordinates>76.880403,43.22802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Брусиловского 277</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/dt8hj<br>Координаты: 43.227501, 76.881123<br><br>Район: БостандыкАдрес: Брусиловского 277<br>Группа: 14<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир276.9<br>]]></description>
+            <Point id="378">
+                <coordinates>76.88103,43.228566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Брусиловского 281</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3ic6r0<br>Координаты: 43.228118, 76.881137<br><br>Район: БостандыкАдрес: Брусиловского 281<br>Группа: 14<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир272<br>]]></description>
+            <Point id="380">
+                <coordinates>76.881123,43.227501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Брусиловского 281А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ni4sz<br>Координаты: 43.226712, 76.882289<br><br>Район: БостандыкАдрес: Брусиловского 281А<br>Группа: 14<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 16<br>Площадь квартир377.9<br>]]></description>
+            <Point id="382">
+                <coordinates>76.881137,43.228118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Туркебаева 281</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/z26waw<br>Координаты: 43.202101, 76.886212<br><br>Район: БостандыкАдрес: Туркебаева 281<br>Группа: 14<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир322.2<br>]]></description>
+            <Point id="384">
+                <coordinates>76.882289,43.226712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>ул.Навои 308А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/rb3c8f<br>Координаты: 43.202552, 76.886966<br><br>Район: БостандыкАдрес: ул.Навои 308А<br>Группа: 15<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир410<br>]]></description>
+            <Point id="386">
+                <coordinates>76.886212,43.202101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>ул.Навои 308/2</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/yyngoz<br>Координаты: 43.202681, 76.88765<br><br>Район: БостандыкАдрес: ул.Навои 308/2<br>Группа: 15<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир496.1<br>]]></description>
+            <Point id="388">
+                <coordinates>76.886966,43.202552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>ул.Навои 308/3</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ow2pp<br>Координаты: 43.202681, 76.88765<br><br>Район: БостандыкАдрес: ул.Навои 308/3<br>Группа: 15<br>Год постройки: 1964<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир489.2<br>]]></description>
+            <Point id="390">
+                <coordinates>76.88765,43.202681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>ул.Навои 308/4</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uaowy<br>Координаты: 43.20258, 76.888217<br><br>Район: БостандыкАдрес: ул.Навои 308/4<br>Группа: 15<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир471<br>]]></description>
+            <Point id="392">
+                <coordinates>76.88765,43.202681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>ул.Навои 308/5</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/1aagy<br>Координаты: 43.202052, 76.887285<br><br>Район: БостандыкАдрес: ул.Навои 308/5<br>Группа: 15<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир525.9<br>]]></description>
+            <Point id="394">
+                <coordinates>76.888217,43.20258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>ул.Навои 308/6</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/iudwq<br>Координаты: 43.20193, 76.886697<br><br>Район: БостандыкАдрес: ул.Навои 308/6<br>Группа: 15<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир489.6<br>]]></description>
+            <Point id="396">
+                <coordinates>76.887285,43.202052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>ул.Навои 308/7</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xbn3b<br>Координаты: 43.201665, 76.886634<br><br>Район: БостандыкАдрес: ул.Навои 308/7<br>Группа: 15<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир325.7<br>]]></description>
+            <Point id="398">
+                <coordinates>76.886697,43.20193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>ул.Навои 308/8</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/td5ua<br>Координаты: 43.201665, 76.886634<br><br>Район: БостандыкАдрес: ул.Навои 308/8<br>Группа: 15<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир510.2<br>]]></description>
+            <Point id="400">
+                <coordinates>76.886634,43.201665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>ул.Навои 308/9</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jfr68d<br>Координаты: 43.201885, 76.887698<br><br>Район: БостандыкАдрес: ул.Навои 308/9<br>Группа: 15<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 4<br>Площадь квартир312.7<br>]]></description>
+            <Point id="402">
+                <coordinates>76.886634,43.201665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>ул.Навои 308/10</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ha8fvs<br>Координаты: 43.200535, 76.888089<br><br>Район: БостандыкАдрес: ул.Навои 308/10<br>Группа: 15<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 12<br>Площадь квартир510.5<br>]]></description>
+            <Point id="404">
+                <coordinates>76.887698,43.201885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>ул.Навои 308/11</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/783vu<br>Координаты: 43.230373, 76.949542<br><br>Район: БостандыкАдрес: ул.Навои 308/11<br>Группа: 15<br>Год постройки: 1968<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир629.1<br>]]></description>
+            <Point id="406">
+                <coordinates>76.888089,43.200535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Назарбаева  237</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tx34c<br>Координаты: 43.230323, 76.949086<br><br>Район: БостандыкАдрес: Назарбаева  237<br>Группа: 16<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6,Т-2<br>Количество квартир: 6<br>Площадь квартир273<br>]]></description>
+            <Point id="408">
+                <coordinates>76.949542,43.230373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Назарбаева  237А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/k0vgb<br>Координаты: 43.229644, 76.949495<br><br>Район: БостандыкАдрес: Назарбаева  237А<br>Группа: 16<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 6<br>Площадь квартир287.3<br>]]></description>
+            <Point id="410">
+                <coordinates>76.949086,43.230323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Назарбаева  241</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/98xe26<br>Координаты: 43.229346, 76.94966<br><br>Район: БостандыкАдрес: Назарбаева  241<br>Группа: 16<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир293.2<br>]]></description>
+            <Point id="412">
+                <coordinates>76.949495,43.229644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Назарбаева  243</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vcr69<br>Координаты: 43.229346, 76.94966<br><br>Район: БостандыкАдрес: Назарбаева  243<br>Группа: 16<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6,Т-2<br>Количество квартир: 11<br>Площадь квартир294.3<br>]]></description>
+            <Point id="414">
+                <coordinates>76.94966,43.229346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Назарбаева  245</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ofdze<br>Координаты: 43.229246, 76.948343<br><br>Район: БостандыкАдрес: Назарбаева  245<br>Группа: 16<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6,Т-2<br>Количество квартир: 11<br>Площадь квартир295.4<br>]]></description>
+            <Point id="416">
+                <coordinates>76.94966,43.229346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>ул.Панфилова 201</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/i2qe5<br>Координаты: 43.228973, 76.948381<br><br>Район: БостандыкАдрес: ул.Панфилова 201<br>Группа: 16<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6, Т-2<br>Количество квартир: 12<br>Площадь квартир450<br>]]></description>
+            <Point id="418">
+                <coordinates>76.948343,43.229246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>ул.Панфилова 203</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uuj0mf<br>Координаты: 43.22855, 76.929889<br><br>Район: БостандыкАдрес: ул.Панфилова 203<br>Группа: 16<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-6, Т-2<br>Количество квартир: 9<br>Площадь квартир454.2<br>]]></description>
+            <Point id="420">
+                <coordinates>76.948381,43.228973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>ул.Тимирязева 27</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/mjvwpy<br>Координаты: 43.228336, 76.929587<br><br>Район: БостандыкАдрес: ул.Тимирязева 27<br>Группа: 17<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-6<br>Количество квартир: 8<br>Площадь квартир256.2<br>]]></description>
+            <Point id="422">
+                <coordinates>76.929889,43.22855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>ул.Тимирязева 29</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/angfa<br>Координаты: 43.227977, 76.929232<br><br>Район: БостандыкАдрес: ул.Тимирязева 29<br>Группа: 17<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир261<br>]]></description>
+            <Point id="424">
+                <coordinates>76.929587,43.228336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>ул.Тимирязева 31</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/t5xn6m<br>Координаты: 43.227977, 76.929232<br><br>Район: БостандыкАдрес: ул.Тимирязева 31<br>Группа: 17<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: ОЦ-1<br>Количество квартир: 8<br>Площадь квартир262.5<br>]]></description>
+            <Point id="426">
+                <coordinates>76.929232,43.227977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>ул.Тимирязева 33</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/yuao7<br>Координаты: 43.227202, 76.929069<br><br>Район: БостандыкАдрес: ул.Тимирязева 33<br>Группа: 17<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир252.9<br>]]></description>
+            <Point id="428">
+                <coordinates>76.929232,43.227977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>ул.Тимирязева 34</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/d8o3sf<br>Координаты: 43.165874, 76.879291<br><br>Район: БостандыкАдрес: ул.Тимирязева 34<br>Группа: 17<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир253.6<br>]]></description>
+            <Point id="430">
+                <coordinates>76.929069,43.227202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Редько 14</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/sgn98x<br>Координаты: 43.165637, 76.879467<br><br>Район: БостандыкАдрес: Редько 14<br>Группа: 18<br>Год постройки: 1965<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-3<br>Количество квартир: 8<br>Площадь квартир262.5<br>]]></description>
+            <Point id="432">
+                <coordinates>76.879291,43.165874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Редько 16</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/4jh43<br>Координаты: 43.17201, 76.871699<br><br>Район: БостандыкАдрес: Редько 16<br>Группа: 18<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-3<br>Количество квартир: 8<br>Площадь квартир248<br>]]></description>
+            <Point id="434">
+                <coordinates>76.879467,43.165637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Кенесары хана 113/3</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/lwdau<br>Координаты: 43.172416, 76.87121<br><br>Район: БостандыкАдрес: Кенесары хана 113/3<br>Группа: 18<br>Год постройки: <br>Этажность: 2<br>Материал стен: <br>ПДП: ОЦ-4<br>Количество квартир: 4<br>Площадь квартир262.5<br>]]></description>
+            <Point id="436">
+                <coordinates>76.871699,43.17201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>Кенесары хана  115</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/axygbb<br>Координаты: 43.172586, 76.87109<br><br>Район: БостандыкАдрес: Кенесары хана  115<br>Группа: 18<br>Год постройки: <br>Этажность: 2<br>Материал стен: <br>ПДП: ОЦ-4<br>Количество квартир: 4<br>Площадь квартир252.9<br>]]></description>
+            <Point id="438">
+                <coordinates>76.87121,43.172416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Кенесары хана 117</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/cilra8<br>Координаты: 43.233231, 76.931627<br><br>Район: БостандыкАдрес: Кенесары хана 117<br>Группа: 18<br>Год постройки: 1971<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-1<br>Количество квартир: 8<br>Площадь квартир253.6<br>]]></description>
+            <Point id="440">
+                <coordinates>76.87109,43.172586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>Байтурсынова 147</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jrrxl<br>Координаты: 43.233231, 76.931627<br><br>Район: БостандыкАдрес: Байтурсынова 147<br>Группа: 19<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 16<br>Площадь квартир414.6<br>]]></description>
+            <Point id="442">
+                <coordinates>76.931627,43.233231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>Байтурсынова 159</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3cjwkg<br>Координаты: 43.232664, 76.93076<br><br>Район: БостандыкАдрес: Байтурсынова 159<br>Группа: 19<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1<br>Количество квартир: 7<br>Площадь квартир501.6<br>]]></description>
+            <Point id="444">
+                <coordinates>76.931627,43.233231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Володарского 2А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vktvp<br>Координаты: 43.222936, 76.88465<br><br>Район: БостандыкАдрес: Володарского 2А<br>Группа: 19<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир417.6<br>]]></description>
+            <Point id="446">
+                <coordinates>76.93076,43.232664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>Вахтангова 2</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/9pme6<br>Координаты: 43.222705, 76.884287<br><br>Район: БостандыкАдрес: Вахтангова 2<br>Группа: 20<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир288<br>]]></description>
+            <Point id="448">
+                <coordinates>76.88465,43.222936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Лебедева 1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/2fznm<br>Координаты: 43.211949, 76.898464<br><br>Район: БостандыкАдрес: Лебедева 1<br>Группа: 20<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Т-2<br>Количество квартир: 8<br>Площадь квартир291.8<br>]]></description>
+            <Point id="450">
+                <coordinates>76.884287,43.222705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Гагарина 238</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ziex4<br>Координаты: 43.211602, 76.898504<br><br>Район: БостандыкАдрес: Гагарина 238<br>Группа: 21<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 8<br>Площадь квартир295<br>]]></description>
+            <Point id="452">
+                <coordinates>76.898464,43.211949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>Гагарина 240</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/wo1x9<br>Координаты: 43.212292, 76.895855<br><br>Район: БостандыкАдрес: Гагарина 240<br>Группа: 21<br>Год постройки: 1955<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 8<br>Площадь квартир283.5<br>]]></description>
+            <Point id="454">
+                <coordinates>76.898504,43.211602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>Радостовца 240/5</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/fqunqo<br>Координаты: 43.223611, 76.886876<br><br>Район: БостандыкАдрес: Радостовца 240/5<br>Группа: 21<br>Год постройки: 1956<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир266<br>]]></description>
+            <Point id="456">
+                <coordinates>76.895855,43.212292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>ул.Жандосова 94/1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/uobg7<br>Координаты: 43.224076, 76.887337<br><br>Район: БостандыкАдрес: ул.Жандосова 94/1<br>Группа: 22<br>Год постройки: 1963<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-1<br>Количество квартир: 24<br>Площадь квартир855.9<br>]]></description>
+            <Point id="458">
+                <coordinates>76.886876,43.223611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>ул.Жандосова 94/2</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3ksfo<br>Координаты: 43.175228, 76.954262<br><br>Район: БостандыкАдрес: ул.Жандосова 94/2<br>Группа: 22<br>Год постройки: 1954<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-1<br>Количество квартир: 12<br>Площадь квартир370<br>]]></description>
+            <Point id="460">
+                <coordinates>76.887337,43.224076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>ул.Институт ионосферы 117а</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/jcx4r<br>Координаты: 43.174939, 76.954759<br><br>Район: БостандыкАдрес: ул.Институт ионосферы 117а<br>Группа: 23<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-2<br>Количество квартир: 12<br>Площадь квартир370<br>]]></description>
+            <Point id="462">
+                <coordinates>76.954262,43.175228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>ул.Институт ионосферы 117б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ulv2p<br>Координаты: 43.234429, 76.882961<br><br>Район: БостандыкАдрес: ул.Институт ионосферы 117б<br>Группа: 23<br>Год постройки: 1962<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: ОЦ-2<br>Количество квартир: 8<br>Площадь квартир370<br>]]></description>
+            <Point id="464">
+                <coordinates>76.954759,43.174939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>ул.Тургут Озала 247/107</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/ab4mjv<br>Координаты: 43.225319, 76.884921<br><br>Район: БостандыкАдрес: ул.Тургут Озала 247/107<br>Группа: 24<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-5<br>Количество квартир: 16<br>Площадь квартир367.9<br>]]></description>
+            <Point id="466">
+                <coordinates>76.882961,43.234429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>Вахтангова 18А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/vtqkrv<br>Координаты: 43.21229, 76.910657<br><br>Район: БостандыкАдрес: Вахтангова 18А<br>Группа: 25<br>Год постройки: 1950<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-5<br>Количество квартир: 8<br>Площадь квартир221.3<br>]]></description>
+            <Point id="468">
+                <coordinates>76.884921,43.225319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>ул.Ходжанова 55/7</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/xcil7<br>Координаты: 43.240533, 76.946636<br><br>Район: БостандыкАдрес: ул.Ходжанова 55/7<br>Группа: 25<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 6<br>Площадь квартир257.7<br>]]></description>
+            <Point id="470">
+                <coordinates>76.910657,43.21229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Абая 12Б</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/azj60<br>Координаты: 43.15978, 76.900054<br><br>Район: БостандыкАдрес: Абая 12Б<br>Группа: 25<br>Год постройки: 1953<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-4<br>Количество квартир: 12<br>Площадь квартир287.8<br>]]></description>
+            <Point id="472">
+                <coordinates>76.946636,43.240533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>Нуртазиной (Ынтымак) 31</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/3th0y<br>Координаты: 43.168392, 76.896889<br><br>Район: БостандыкАдрес: Нуртазиной (Ынтымак) 31<br>Группа: 25<br>Год постройки: 1952<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: Ж-1<br>Количество квартир: 8<br>Площадь квартир257<br>]]></description>
+            <Point id="474">
+                <coordinates>76.900054,43.15978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Баязитовой (Жибек жолы)  15</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/tzxgw<br>Координаты: 43.214737, 76.898056<br><br>Район: БостандыкАдрес: Баязитовой (Жибек жолы)  15<br>Группа: 25<br>Год постройки: 1960<br>Этажность: 2<br>Материал стен: деревянный<br>ПДП: Ж-7, Т-2<br>Количество квартир: 8<br>Площадь квартир257<br>]]></description>
+            <Point id="476">
+                <coordinates>76.896889,43.168392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Гагарина 234</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/1o84j<br>Координаты: 43.207259, 76.891277<br><br>Район: БостандыкАдрес: Гагарина 234<br>Группа: 25<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-4, Т-2<br>Количество квартир: 8<br>Площадь квартир251<br>]]></description>
+            <Point id="478">
+                <coordinates>76.898056,43.214737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Тажибаевой Патшайым 159</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/l5i7p<br>Координаты: 43.198114, 76.907792<br><br>Район: БостандыкАдрес: Тажибаевой Патшайым 159<br>Группа: 25<br>Год постройки: 1979<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-3<br>Количество квартир: 8<br>Площадь квартир214<br>]]></description>
+            <Point id="480">
+                <coordinates>76.891277,43.207259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Тастемир (Жеруйык) 1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/lgmcr<br>Координаты: 43.226456, 76.889033<br><br>Район: БостандыкАдрес: Тастемир (Жеруйык) 1<br>Группа: 25<br>Год постройки: <br>Этажность: 2<br>Материал стен: каркасно-камышитовый<br>ПДП: Ж-1, Р-4<br>Количество квартир: 13<br>Площадь квартир550.4<br>]]></description>
+            <Point id="482">
+                <coordinates>76.927733,43.185538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>Жандосова 45А</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/mxohv<br>Координаты: 43.212211, 76.909779<br><br>Район: БостандыкАдрес: Жандосова 45А<br>Группа: 25<br>Год постройки: 1957<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: ОЦ-1,Т-3<br>Количество квартир: 12<br>Площадь квартир494.9<br>]]></description>
+            <Point id="484">
+                <coordinates>76.889033,43.226456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>ул.Ходжанова 55/8</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/a47ikr<br>Координаты: 43.210582, 76.909089<br><br>Район: БостандыкАдрес: ул.Ходжанова 55/8<br>Группа: 25<br>Год постройки: 1959<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: <br>Количество квартир: 6<br>Площадь квартир465.9<br>]]></description>
+            <Point id="486">
+                <coordinates>76.909779,43.212211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>ул.Ходжанова 55/1</name>
+            <description><![CDATA[2ГИС: https://go.2gis.com/bxx8v<br>Координаты: <br><br>Район: БостандыкАдрес: ул.Ходжанова 55/1<br>Группа: 25<br>Год постройки: 1958<br>Этажность: 2<br>Материал стен: кирпичный<br>ПДП: <br>Количество квартир: 10<br>Площадь квартир313.5<br>]]></description>
+            <Point id="488">
+                <coordinates>76.909089,43.210582,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
